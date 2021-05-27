@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/myportfolio/static/css/main.88a46468.chunk.css",
+    "main.js": "/myportfolio/static/js/main.086f5852.chunk.js",
+    "main.js.map": "/myportfolio/static/js/main.086f5852.chunk.js.map",
+    "runtime-main.js": "/myportfolio/static/js/runtime-main.59c1b090.js",
+    "runtime-main.js.map": "/myportfolio/static/js/runtime-main.59c1b090.js.map",
+    "static/js/2.26bad4f8.chunk.js": "/myportfolio/static/js/2.26bad4f8.chunk.js",
+    "static/js/2.26bad4f8.chunk.js.map": "/myportfolio/static/js/2.26bad4f8.chunk.js.map",
+    "index.html": "/myportfolio/index.html",
+    "static/css/main.88a46468.chunk.css.map": "/myportfolio/static/css/main.88a46468.chunk.css.map",
+    "static/js/2.26bad4f8.chunk.js.LICENSE.txt": "/myportfolio/static/js/2.26bad4f8.chunk.js.LICENSE.txt",
+    "static/media/200w.f6988656.webp": "/myportfolio/static/media/200w.f6988656.webp",
+    "static/media/App.css": "/myportfolio/static/media/intro-back.4174d195.svg",
+    "static/media/PathFidnProj.53edf3f7.png": "/myportfolio/static/media/PathFidnProj.53edf3f7.png",
+    "static/media/PathFindProj.89907e9b.svg": "/myportfolio/static/media/PathFindProj.89907e9b.svg",
+    "static/media/github.2a411f27.png": "/myportfolio/static/media/github.2a411f27.png",
+    "static/media/gmail.a2f2146f.png": "/myportfolio/static/media/gmail.a2f2146f.png",
+    "static/media/instagram.e719d8b2.png": "/myportfolio/static/media/instagram.e719d8b2.png",
+    "static/media/sort-First.653eb062.svg": "/myportfolio/static/media/sort-First.653eb062.svg",
+    "static/media/sortSecond.8e7c7bab.svg": "/myportfolio/static/media/sortSecond.8e7c7bab.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59c1b090.js",
+    "static/js/2.26bad4f8.chunk.js",
+    "static/css/main.88a46468.chunk.css",
+    "static/js/main.086f5852.chunk.js"
+  ]
+}
